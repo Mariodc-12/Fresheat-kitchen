@@ -1,0 +1,1 @@
+FreshEat Kitchen is a modern, responsive web application for a fast-food restaurant. This project focuses on a "customer-first" digital experience, featuring a vibrant menu and a seamless ordering flow.
